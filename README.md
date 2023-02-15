@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **facundocali1234@gmail.com**
 
