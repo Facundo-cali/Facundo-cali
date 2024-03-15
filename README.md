@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🔭 I'm currently working at E-triumph, a digital marketing company. [https://etriumph-marketing.com/](https://etriumph-marketing.com/)
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **facundocali1234@gmail.com**
