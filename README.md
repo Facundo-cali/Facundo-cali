@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **facundocali1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
